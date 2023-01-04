@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Damilola
-- 👀 I’m interested in Machine learning, Generative Design and React.
-- 🌱 I’m currently learning data analysis for Businsess uning Phython
-- 💞️ I’m looking to collaborate on 
+- 👀 I’ work at the intersection of Machine learning, Computataional design, and Spatial computing engines for Architectural design.
+- 🌱 I’m currently learning how to use the invidia Omniverse, and computational design tools for use in Built enevironment modelling.
+- 💞️ I’m looking to collaborate on Compuatational design projects.
 - 📫 How to reach me @fusion87 on twitter- https://www.polywork.com/damilola
 
 <!---
